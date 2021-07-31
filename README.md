@@ -5,7 +5,7 @@
 Currently, i'm pursuing my bachelor's in Information Technology. I am passionate about Software Engineering and Open-Source. 
 
 
-### Achievement :trophy: 
+### Achievements :trophy: 
 - ß- level Microsoft Learn Student Ambassador 
 - Recognized as an Extremely Geeky Technical Writer by GeeksForGeeks
 
