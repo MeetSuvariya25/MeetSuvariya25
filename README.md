@@ -2,7 +2,7 @@
 
 ### About me :man_student:
 
-Currently, i'm pursuing my bachelor's in Information Technology. I am passionate about Software Engineering and Open-Source. 
+I am a graduate of Charotar University of Science and Technology Gujarat, with a B.TECH degree in Information and Technology. Currently, I work as a software engineer, contributing my skills and expertise to the team at Crest Data Systems. Possessing exceptional team player skills, I am dedicated to adding value to every project I work on. My relentless curiosity and eagerness to explore new technologies have been the driving forces behind my career. Through extensive work experience and various internships, I have developed a wide range of skills and knowledge, enabling me to approach each new project with confidence and enthusiasm.
 
 
 ### Achievements :trophy: 
